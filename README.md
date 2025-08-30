@@ -58,6 +58,6 @@ This project provides a dashboard for tracking and analyzing healthcare patient 
 
   **Screenshot of dashboard:**  
 ![Preview of dashboard](https://github.com/Arijeet226/POWER-BI_project4_30.08.2025/blob/62c6d52c6a949ae68a5603ae32a1104ee3f1805a/Screenshot%202025-08-30%20105122.png)
-![Preview of Detailpage]()
+![Preview of Detail_page](https://github.com/Arijeet226/POWER-BI_project4_30.08.2025/blob/a1500c5be2a9f70dd024f18ed9b9ebe78cc92206/Screenshot%202025-08-30%20105204.png)
 
 
