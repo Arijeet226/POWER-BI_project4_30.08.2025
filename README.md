@@ -1,5 +1,5 @@
 # POWER-BI_project4_30.08.2025
-This is a powerful SQL project – Showcasing Healthcare stats for inpatient and outpatient waiting time analysis
+This is a powerful POWER BI project – Showcasing Healthcare stats for inpatient and outpatient waiting time analysis
 
 # Healthcare Waiting List Dashboard
 
