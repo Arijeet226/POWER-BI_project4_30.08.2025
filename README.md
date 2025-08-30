@@ -57,6 +57,7 @@ This project provides a dashboard for tracking and analyzing healthcare patient 
 - Data covers the period **January 2018 to March 2021**.
 
   **Screenshot of dashboard:**  
-![Preview of dashboard]()
+![Preview of dashboard](https://github.com/Arijeet226/POWER-BI_project4_30.08.2025/blob/62c6d52c6a949ae68a5603ae32a1104ee3f1805a/Screenshot%202025-08-30%20105122.png)
+![Preview of Detailpage]()
 
 
